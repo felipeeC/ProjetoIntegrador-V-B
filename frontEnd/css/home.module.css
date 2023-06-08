@@ -1,0 +1,1400 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-home {
+  width: 100%;
+  height: 1752px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-grey-900);
+}
+.home-background {
+  top: -160px;
+  left: 0px;
+  width: 1440px;
+  height: 3192px;
+  position: absolute;
+}
+.home-frame3 {
+  gap: 16px;
+  top: 160px;
+  left: 120px;
+  width: 588px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 80px;
+}
+.home-text02 {
+  color: var(--dl-color-grey-300);
+  width: 588px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-frame7 {
+  top: 472px;
+  left: 120px;
+  width: 365px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: var(--dl-color-black-20);
+}
+.home-frame4 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 32px;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-primary-400);
+}
+.home-text04 {
+  color: var(--dl-color-primary-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame5 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 32px;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+}
+.home-text06 {
+  color: var(--dl-color-grey-300);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame6 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 32px;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+}
+.home-text08 {
+  color: var(--dl-color-grey-300);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card {
+  top: 616px;
+  left: 120px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new1 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame9 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group1 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image01 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new101 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar01 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text10 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame10 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text12 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card1 {
+  top: 1116px;
+  left: 120px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image02 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new102 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame91 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group11 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image03 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new103 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button1 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar02 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar03 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector01 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text14 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame101 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text16 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card2 {
+  top: 616px;
+  left: 426px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image04 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new104 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame92 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group12 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image05 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new105 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button2 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar04 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar05 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector02 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text18 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame102 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text20 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card3 {
+  top: 1116px;
+  left: 426px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image06 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new106 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame93 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group13 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image07 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new107 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button3 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar06 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar07 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star3 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector03 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text22 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame103 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text24 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card4 {
+  top: 616px;
+  left: 732px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image08 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new108 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame94 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group14 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image09 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new109 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button4 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar08 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar09 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star4 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector04 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text26 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame104 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text28 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card5 {
+  top: 1116px;
+  left: 732px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image10 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new110 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame95 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group15 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image11 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new111 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button5 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar10 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar11 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star5 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector05 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text30 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame105 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text32 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card6 {
+  top: 616px;
+  left: 1038px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image12 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new112 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame96 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group16 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image13 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new113 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button6 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar12 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar13 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star6 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector06 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text34 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame106 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text36 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-card7 {
+  top: 1116px;
+  left: 1038px;
+  width: 282px;
+  height: 480px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.home-card-image14 {
+  top: 12px;
+  left: 7px;
+  width: 268px;
+  height: 456px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new114 {
+  top: 0px;
+  left: 0px;
+  width: 268px;
+  height: 456px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-frame97 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  display: flex;
+  padding: 8px 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  background-color: rgba(32, 40, 62, 0.800000011920929);
+}
+.home-group17 {
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-card-image15 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-shang-chiandthe-legendofthe-ten-rings-releases-new115 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 400px;
+  position: absolute;
+  border-radius: 8px;
+}
+.home-rating-button7 {
+  gap: 4px;
+  top: 10px;
+  left: 8px;
+  height: 40px;
+  display: flex;
+  padding: 4px 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-black-65);
+}
+.home-vuesaxlinearstar14 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearstar15 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-star7 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector07 {
+  top: 1.3849952220916748px;
+  left: 1.3340752124786377px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.home-text38 {
+  color: var(--dl-color-warning-500);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame107 {
+  gap: 16px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text39 {
+  color: var(--dl-color-grey-50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-text41 {
+  top: 552px;
+  left: 120px;
+  color: var(--dl-color-grey-400);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text42 {
+  font-weight: 600;
+}
+.home-navbar {
+  gap: 671px;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 16px 120px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(18, 24, 41, 0.800000011920929);
+}
+.home-frame74 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-frame2 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+}
+.home-text44 {
+  color: var(--dl-color-grey-200);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame31 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+}
+.home-text46 {
+  color: var(--dl-color-grey-200);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-frame41 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 32px;
+  align-items: center;
+}
+.home-text48 {
+  color: var(--dl-color-grey-200);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.home-vuesaxlineararrowright {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlineararrowright1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-arrowright {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector08 {
+  top: 3.953315258026123px;
+  left: 9.619941711425781px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+.home-vector09 {
+  top: 8px;
+  left: 2.3333332538604736px;
+  width: 11px;
+  height: 1px;
+  position: absolute;
+}
+.home-input {
+  top: 328px;
+  left: 120px;
+  width: 344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-framebase-input {
+  gap: 16px;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 1;
+  align-items: center;
+  border-color: rgba(50, 59, 84, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: var(--dl-color-black-10);
+}
+.home-left-icon {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+.home-vuesaxlinearsearchnormal {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-vuesaxlinearsearchnormal1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-searchnormal {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector10 {
+  top: 2px;
+  left: 2px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.home-vector11 {
+  top: 20px;
+  left: 20px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.home-input-content {
+  color: rgba(71, 80, 105, 1);
+  width: 272px;
+  display: flex;
+  flex-grow: 1;
+  font-size: 14px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Poppins;
+  font-weight: 400;
+  flex-direction: column;
+  justify-content: center;
+}
